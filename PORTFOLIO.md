@@ -3,7 +3,7 @@
 # PORTFOLIO.md — AI Coach Vince
 # =============================================================================
 
-portfolio_enabled: true
+portfolio_enabled: false
 portfolio_priority: 6
 portfolio_featured: false
 portfolio_last_reviewed: "2025-12-31"
