@@ -1,45 +1,14 @@
 ---
-# =============================================================================
-# PORTFOLIO.md — AI Coach Vince
-# =============================================================================
-
+# === CONTROL FLAGS ===
 portfolio_enabled: false
 portfolio_priority: 6
 portfolio_featured: false
-portfolio_last_reviewed: "2025-12-31"
 
+# === CARD DISPLAY ===
 title: "AI Coach Vince"
 tagline: "Personal AI coaching assistant for fitness, accountability, and goal achievement"
 slug: "ai-coach-vince"
-
 category: "AI Automation"
-target_audience: "Fitness enthusiasts and individuals seeking personal coaching"
-tags:
-  - "ai"
-  - "coaching"
-  - "fitness"
-  - "chatbot"
-  - "accountability"
-
-thumbnail: ""
-hero_images: []
-demo_video_url: ""
-
-live_url: ""
-case_study_url: ""
-
-problem_solved: |
-  Personal coaching is expensive ($100-300/hour) and not accessible to most people.
-  Fitness apps lack personalization and accountability. People struggle to maintain
-  consistency without external accountability and motivation.
-
-key_outcomes:
-  - "24/7 access to coaching guidance at fraction of human coach cost"
-  - "Personalized workout and nutrition recommendations"
-  - "Daily check-ins and accountability tracking"
-  - "Motivational messaging adapted to user's personality"
-  - "Progress tracking and goal adjustment over time"
-
 tech_stack:
   - "Python"
   - "OpenAI API"
@@ -47,8 +16,19 @@ tech_stack:
   - "Database (User Data)"
   - "Notification System"
 
-complexity: "MVP"
+# === DETAIL PAGE ===
 
+# === LINKS ===
+demo_url: ""
+live_url: ""
+
+# === OPTIONAL ===
+tags:
+  - "ai"
+  - "coaching"
+  - "fitness"
+  - "chatbot"
+  - "accountability"
 ---
 
 ## Overview
